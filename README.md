@@ -1,1 +1,2 @@
-You need TinyRSS + LAMP stack to run this.
+You need TinyRSS to run this.
+
